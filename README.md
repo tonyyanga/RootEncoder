@@ -6,8 +6,6 @@
 
 RootEncoder (rtmp-rtsp-stream-client-java) is a stream encoder to push video/audio to media servers using protocols RTMP, RTSP and SRT with all code written in Java/Kotlin
 
-Note: The library was renamed from rtmp-rtsp-stream-client-java to RootEncoder after add SRT protocol because the name has no sense anymore
-
 If you need enterprise Grade APIs for Feeds & Chat, Stream is a great tool. <a href="https://getstream.io/tutorials/android-chat/?utm_source=https://github.com/pedroSG94/rtmp-rtsp-stream-client-java&utm_medium=github&utm_content=developer&utm_term=java" target="_blank">Try the Android Chat tutorial</a> 💬
 
 If you need a player see this project:
